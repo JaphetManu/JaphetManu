@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JaphetManu
+- 👋 Hi, I’m Japhet
 - 👀 I’m interested in everything related to full stack web and app development
 - 🖌️ I also like designing and prototyping things
 - 🎓 I'm currently studying Computer Science and Media in the Master's programm at Stuttgart Media University 
